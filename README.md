@@ -1,0 +1,3 @@
+-RIPv2
+-EIGRP
+-OSPF(50% in progress)
