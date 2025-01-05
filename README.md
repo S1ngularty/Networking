@@ -1,3 +1,4 @@
 -RIPv2
 -EIGRP
--OSPF(50% in progress)
+-OSPF
+Dynamic Trunk Protocols (DTP) & VLAN Trunk Protocol (VTP)
