@@ -9,5 +9,5 @@ ROAS
 STATIC routing
 VLSM
 load balancing 
-route algorithms 
+route algorithms.
 
